@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GrubGuy (James)
+- 👋 Hi, I’m (James)
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Python
 - I've got a woodworking business specializing in custom cutting boards!
